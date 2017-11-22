@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<rdf:RDF xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:gn="http://www.geonames.org/ontology#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#">
+
+	<gn:Feature rdf:about="http://sws.geonames.org/0000003/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000002/about.rdf"/>
+		<gn:name>Rif. Selvapiana-Lunelli – Rif. Auronzo alle Tre Cime</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>101</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>10-12h</gn:travelTime>
+		<gn:difficulty>EEA</gn:difficulty>
+		<gn:elevationGain>in salita 1700m, in discesa 950m</gn:elevationGain>
+		<gn:startingP1>A - Rif. Selvapiana Lunelli</gn:startingP1>
+		<gn:startingP2>B - Rif. Auronzo alle Tre Cime</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Zsigmondy - Comici</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio Pian di Cengia</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Rifugio Tre Cime - Locatelli</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/61-101-rif-selvapiana-lunelli-rif-auronzo-alle-tre-cime-sentiero-attrezzato.html</gn:description>
+		<gn:crossroads>155, 164, 171, 152, 124, 103, 104, 102, 105, 117</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000002/nearby.rdf"/>
+		<!-- <gn:locationMap rdf:resource="http://www.geonames.org/0000002/monzano-creek-trail.html"/> -->
+	</gn:Feature>
+	<!-- <foaf:Document rdf:about="http://sws.geonames.org/0000002/about.rdf">
+		<foaf:primaryTopic rdf:resource="http://sws.geonames.org/0000002/"/>
+		<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+		<cc:attributionURL rdf:resource="http://sws.geonames.org/0000002/"/>
+		<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-02-01</dcterms:created>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-02-01</dcterms:modified>
+	</foaf:Document> -->
+	<gn:Feature rdf:about="http://sws.geonames.org/0000006/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000006/about.rdf"/>
+		<gn:name>Val Giralba (Pian de la Vèlma) – Rif. Fondovalle</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>103</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>6h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 1471m, in discesa 883m</gn:elevationGain>
+		<gn:startingP1>A - Val Giralba loc. Pian de la Vèlma</gn:startingP1>
+		<gn:startingP2>B - Rif. Fondovalle</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Zsigmondy - Comici</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio G. Carducci</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Croda Dei Toni</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/62-103-val-giralba-pian-de-la-velma-rif-fondovalle.html</gn:description>
+		<gn:crossroads>109, 101, 102, 110</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000006/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000009/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000009/about.rdf"/>
+		<gn:name>Rif. Lavaredo – Forcella Pian di Cengia</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>104</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>2h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 300m, in discesa 370m</gn:elevationGain>
+		<gn:startingP1>A - Rif. Lavaredo</gn:startingP1>
+		<gn:startingP2>B - Forcella Pian di Cengia</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Lavaredo</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio Pian di Cengia</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Lago di Cengia</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/71-104-rif-lavaredo-forcella-pian-di-cengia.html</gn:description>
+		<gn:crossroads>101, 1107, 107</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000009/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000012/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000012/about.rdf"/>
+		<gn:name>Rif. Auronzo alle Tre Cime – Val Campo di Dentro</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>105</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>1.3h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 213m, in discesa 123m</gn:elevationGain>
+		<gn:startingP1>A - Rif. Auronzo alle Tre Cime</gn:startingP1>
+		<gn:startingP2>B - Val Campo di Dentro</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Auronzo alle Tre Cime</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio Tre Cime - Locatelli</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Laghi dei Piani</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/72-105-rif-auronzo-alle-tre-cime--val-campo-di-dentro.html</gn:description>
+		<gn:crossroads>101, 117, 102</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000012/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000015/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000015/about.rdf"/>
+		<gn:name>Val Marzón – Sotto Forcella de l’Agnèl</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>106</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>4h</gn:travelTime>
+		<gn:difficulty>EE</gn:difficulty>
+		<gn:elevationGain>in salita 1363m</gn:elevationGain>
+		<gn:startingP1>A - Val Marzón</gn:startingP1>
+		<gn:startingP2>B - Sotto Forcella de l’Agnèl</gn:startingP2>
+		<gn:nearbyPOI1>Valle Marzòn</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Punta Agnello</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Cima d'Ambata</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/73-106-val-marzon--sotto-forcella-de-lagnel.html</gn:description>
+		<gn:crossroads>107</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000015/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000018/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000018/about.rdf"/>
+		<gn:name>Sopra Lago di Cengia – Rif. Carducci</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>107</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>4.3h</gn:travelTime>
+		<gn:difficulty>EEA</gn:difficulty>
+		<gn:elevationGain>in salita 490m, in discesa 595m</gn:elevationGain>
+		<gn:startingP1>A - Sopra Lago di Cengia</gn:startingP1>
+		<gn:startingP2>B - Rif. Carducci</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio G. Carducci</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Lago di Cengia</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Cima dei Toni</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/74-107-sopra-lago-di-cengia--rif-carducci.html</gn:description>
+		<gn:crossroads>104, 106, 103</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000018/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000021/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000021/about.rdf"/>
+		<gn:name>Casello pedaggio sulla strada per il Rif. Auronzo alle Tre Cime – Valle della Rienza</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>108</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>1.3h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 40m, in discesa 291m</gn:elevationGain>
+		<gn:startingP1>A - Casello pedaggio sulla strada per le Tre Cime</gn:startingP1>
+		<gn:startingP2>B - Valle della Rienza</gn:startingP2>
+		<gn:nearbyPOI1>Malga Rinbianco</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Valle della Rienza</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Monte Piana</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/75-108-casello-pedaggio-sulla-strada-per-il-rif-auronzo-alle-tre-cime--valle-della-rienza.html</gn:description>
+		<gn:crossroads>119, 111, 102</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000021/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000024/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000024/about.rdf"/>
+		<gn:name>Pian de le Salère – Ciadìn de Stalàta - Sentiero attrezzato</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>109</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>3h</gn:travelTime>
+		<gn:difficulty>EEA</gn:difficulty>
+		<gn:elevationGain>in salita 935m</gn:elevationGain>
+		<gn:startingP1>A - Pian de le Salère</gn:startingP1>
+		<gn:startingP2>B - Ciadìn de Stalàta</gn:startingP2>
+		<gn:nearbyPOI1>Giralba</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio G. Carducci</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Bivacco Battaglion Cadore</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/84-109-pian-de-le-salere--ciadin-de-stalata-sentiero-attrezzato.html</gn:description>
+		<gn:crossroads>103, 110</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000024/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000027/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000027/about.rdf"/>
+		<gn:name>“Valón dei Castrati” - Sentiero attrezzato</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>111</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>2.3h</gn:travelTime>
+		<gn:difficulty>EEA</gn:difficulty>
+		<gn:elevationGain>in salita 598m</gn:elevationGain>
+		<gn:startingP1>A - Val de Rinbianco</gn:startingP1>
+		<gn:startingP2>B - Piramide Carducci</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Bosi</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Monte Piana</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Piz Popena</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/85-111-valon-dei-castrati-sentiero-attrezzato.html</gn:description>
+		<gn:crossroads>108, 122</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000027/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000030/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000030/about.rdf"/>
+		<gn:name>“Giovanni Durissini” - Sentiero attrezzato</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>112</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>5h</gn:travelTime>
+		<gn:difficulty>EEA</gn:difficulty>
+		<gn:elevationGain>in salita 803m, in discesa 820m</gn:elevationGain>
+		<gn:startingP1>A - Valón del Nevaio</gn:startingP1>
+		<gn:startingP2>B - Rif. Fonda Savio</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Città di Carpi</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio Fratelli Fonda Savio</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Col San Angelo</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/86-112-giovanni-durissini-sentiero-attrezzato.html</gn:description>
+		<gn:crossroads>117, 118</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000030/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000033/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000033/about.rdf"/>
+		<gn:name>Pian dei Spiriti (Misurina) – Rif. Fonda Savio</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>115</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>2h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 537m</gn:elevationGain>
+		<gn:startingP1>A - Misurina loc. Pian dei Spiriti</gn:startingP1>
+		<gn:startingP2>B - Rif. Fonda Savio</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Fratelli Fonda Savio</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Lago D'Antorno</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Gruppo del Cristallo</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/76-115-pian-dei-spiriti-misurina--rif-fonda-savio.html</gn:description>
+		<gn:crossroads>117, 112</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000033/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000036/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000036/about.rdf"/>
+		<gn:name>“Pala del Fién” - Sentiero attrezzato</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>116</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>1h</gn:travelTime>
+		<gn:difficulty>EEA</gn:difficulty>
+		<gn:elevationGain>in salita 134</gn:elevationGain>
+		<gn:startingP1>A - Rif. Città di Carpi</gn:startingP1>
+		<gn:startingP2>B - Rif. Città di Carpi</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Città di Carpi</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Cima Cadini di San Lucano</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Monte Campoduro</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/87-116-sentiero-attrezzato-pala-del-fien.html</gn:description>
+		<gn:crossroads>118, 120, 121</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000036/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000039/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000039/about.rdf"/>
+		<gn:name>“Alberto Bonacossa” - Sentiero attrezzato</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>117</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>5h</gn:travelTime>
+		<gn:difficulty>EEA</gn:difficulty>
+		<gn:elevationGain>in salita 680m, in discesa 620m</gn:elevationGain>
+		<gn:startingP1>A - Rif. Col de Varda</gn:startingP1>
+		<gn:startingP2>B - Rif. Auronzo alle Tre Cime</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Col De Varda</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio Fratelli Fonda Savio</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Rifugio Auronzo alle Tre Cime</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/88-117-alberto-bonacossa-sentiero-attrezzato-.html</gn:description>
+		<gn:crossroads>118, 115, 112, 119, 101, 105</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000039/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000042/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000042/about.rdf"/>
+		<gn:name>Misurina (Camping ristorante “La Baita”) – Rif. Città di Carpi</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>118</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>3h</gn:travelTime>
+		<gn:difficulty>EE</gn:difficulty>
+		<gn:elevationGain>in salita 719m, in discesa 361m</gn:elevationGain>
+		<gn:startingP1>A - Misurina (Camping ristorante “La Baita”)</gn:startingP1>
+		<gn:startingP2>B - Rif. Città di Carpi</gn:startingP2>
+		<gn:nearbyPOI1>Lago di Misurina</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Cima Cadini di San Lucano</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Rifugio Città di Carpi</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/77-118-misurina-camping-ristorante-la-baita--rif-citta-di-carpi.html</gn:description>
+		<gn:crossroads>117, 112, 116, 120, 121</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000042/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000045/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000045/about.rdf"/>
+		<gn:name>Casello pedaggio sulla strada per il Rif. Auronzo alle Tre Cime – Alta Val Marzón</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>119</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>2.3h</gn:travelTime>
+		<gn:difficulty>EE</gn:difficulty>
+		<gn:elevationGain>in salita 325m, in discesa 670m</gn:elevationGain>
+		<gn:startingP1>A - Casello pedaggio sulla strada per le Tre Cime</gn:startingP1>
+		<gn:startingP2>B - Alta Val Marzón</gn:startingP2>
+		<gn:nearbyPOI1>Valle Marzòn</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Cima dei Toni</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Lago D'Antorno</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/78-119-casello-pedaggio-sulla-strada-per-il-rif-auronzo-alle-tre-cime--alta-val-marzon.html</gn:description>
+		<gn:crossroads>108, 117, 1104</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000045/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000048/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000048/about.rdf"/>
+		<gn:name>Stabiziane (Palùs San Marco) – Rif. Città di Carpi</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>120</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>3.3h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 1002m</gn:elevationGain>
+		<gn:startingP1>A - Palùs San Marco loc. Stabiziane</gn:startingP1>
+		<gn:startingP2>B - Rif. Città di Carpi</gn:startingP2>
+		<gn:nearbyPOI1>Rif. Città di Carpi</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Monte Campoduro</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Pale di Menotto</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/79-120-stabiziane-palus-san-marco--rif-citta-di-carpi.html</gn:description>
+		<gn:crossroads>1120, 116, 118, 121</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000048/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://54">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000051/about.rdf"/>
+		<gn:name>Casón de la Crosèra – Rif. Città di Carpi</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>121</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>3.3h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 903m</gn:elevationGain>
+		<gn:startingP1>A - Casón de la Crosèra</gn:startingP1>
+		<gn:startingP2>B - Rif. Città di Carpi</gn:startingP2>
+		<gn:nearbyPOI1>Rif. Città di Carpi</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Valle Marzòn</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Col di Vezza</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/80-121-cason-de-la-crosera--rif-citta-di-carpi.html</gn:description>
+		<gn:crossroads>116, 118, 120</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000051/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000054/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000054/about.rdf"/>
+		<gn:name>Auronzo di Cadore – Crode de la Mandria</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>271</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>3h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 786m</gn:elevationGain>
+		<gn:startingP1>A - Auronzo di Cadore loc. Ponte Malón</gn:startingP1>
+		<gn:startingP2>B - Col Burgión</gn:startingP2>
+		<gn:nearbyPOI1>Monte Agudo</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Col Burgiou (o Burgion)</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Croda di Paterna</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/98-271-auronzo-di-cadore--crode-de-la-mandria.html</gn:description>
+		<gn:crossroads>1262</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000054/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000057/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000057/about.rdf"/>
+		<gn:name>Lago d’Antórno – Monte Piana (Capanna Carducci)</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>122</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>1.3h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 450m</gn:elevationGain>
+		<gn:startingP1>A - Lago d’Antórno</gn:startingP1>
+		<gn:startingP2>B - Monte Piana (Capanna Carducci)</gn:startingP2>
+		<gn:nearbyPOI1>Lago D'Antorno</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio Bosi</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Monte Piana</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/81-122-lago-dantorno--monte-piana-capanna-carducci.html</gn:description>
+		<gn:crossroads>111</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000057/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000060/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000060/about.rdf"/>
+		<gn:name>Auronzo di Cadore (Reàne) – Lago Ciadìn</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>123</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>6-7h</gn:travelTime>
+		<gn:difficulty>E, EEA, E</gn:difficulty>
+		<gn:elevationGain>in salita 1624m, in discesa 809m</gn:elevationGain>
+		<gn:startingP1>A - Auronzo di Cadore (Reàne)</gn:startingP1>
+		<gn:startingP2>B - Lago Ciadìn</gn:startingP2>
+		<gn:nearbyPOI1>Bivacco Gera</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Lago Cadin</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Bivacco Piovan</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/82-123-auronzo-di-cadore-reane--lago-ciadin.html</gn:description>
+		<gn:crossroads>152, 153, 126, 164</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000060/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000063/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000063/about.rdf"/>
+		<gn:name>Pàdola (bivio per Chiamora) – I Tófe</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>125</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>6h</gn:travelTime>
+		<gn:difficulty>EE</gn:difficulty>
+		<gn:elevationGain>in salita 1156m, in discesa 1328</gn:elevationGain>
+		<gn:startingP1>A - Pàdola (bivio per Chiamora)</gn:startingP1>
+		<gn:startingP2>B - Auronzo di Cadore, loc. I Tófe</gn:startingP2>
+		<gn:nearbyPOI1>Monte Aiarnola</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Lago di Santa Caterina</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Lago Sant'Anna</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/83-125-padola-bivio-per-chiamora--i-tofe.html</gn:description>
+		<gn:crossroads>164, 153, 127</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000063/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000066/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000066/about.rdf"/>
+		<gn:name>“Francesco Mazzetta” - Sentiero attrezzato</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>152</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>6-7h</gn:travelTime>
+		<gn:difficulty>EEA</gn:difficulty>
+		<gn:elevationGain>in salita 1380m, in discesa 310m</gn:elevationGain>
+		<gn:startingP1>A - Padola, loc. Acque Rosse</gn:startingP1>
+		<gn:startingP2>B - Rif. Berti</gn:startingP2>
+		<gn:nearbyPOI1>Lago Aiàrnola</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio Italo Berti</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Bivacco Piovan</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/89-152-francesco-mazzetta-sentiero-attrezzato.html</gn:description>
+		<gn:crossroads>164, 153, 123, 101</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000066/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000069/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000069/about.rdf"/>
+		<gn:name>Ponte sul Rudavói – Ponte di Val Popéna Àuta</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>222</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>3.3h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 505m, in discesa 555m</gn:elevationGain>
+		<gn:startingP1>A - Misurina, loc. Ponte sul Rudavói</gn:startingP1>
+		<gn:startingP2>B - Misurina, Ponte di Val Popéna Àuta</gn:startingP2>
+		<gn:nearbyPOI1>Piz Popena</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Monte Cristallo</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Monte Piana</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/90-222-ponte-sul-rudavoi--ponte-di-val-popena-auta.html</gn:description>
+		<gn:crossroads>224</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000069/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000072/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000072/about.rdf"/>
+		<gn:name>Misurina – Val Popéna Àuta</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>224</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>1.3h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 345m, in discesa 104m</gn:elevationGain>
+		<gn:startingP1>A - Misurina</gn:startingP1>
+		<gn:startingP2>B - Misurina, Val Popéna Àuta</gn:startingP2>
+		<gn:nearbyPOI1>Lago di Misurina</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Piz Popena</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Gruppo del Cristallo</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/91-224-misurina--val-popena-auta.html</gn:description>
+		<gn:crossroads>222</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000072/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000075/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000075/about.rdf"/>
+		<gn:name>Foresta di Somadida (Ponte degli Alberi) - Rif. Scotter-Palatini</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>226</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>4.3h</gn:travelTime>
+		<gn:difficulty>EE</gn:difficulty>
+		<gn:elevationGain>in salita 1121m, in discesa 675m</gn:elevationGain>
+		<gn:startingP1>A - Foresta di Somadida (Ponte degli Alberi)</gn:startingP1>
+		<gn:startingP2>B - Rif. Scotter-Palatini</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Scotter-Palatini</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Forcella Piccola</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Rifugio San Marco</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/95-226-foresta-di-somadida-ponte-degli-alberi-rif-scotter-palatini.html</gn:description>
+		<gn:crossroads>279, 277, 278, 247, 280, 246, 225, 227, 229</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000075/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000078/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000078/about.rdf"/>
+		<gn:name>Rif. Galassi – Rif. San Marco</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>227</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>1.3h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 100m, in discesa 300m</gn:elevationGain>
+		<gn:startingP1>A - Rif. Galassi</gn:startingP1>
+		<gn:startingP2>B - Rif. San Marco</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Galassi</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio San Marco</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Rifugio Scotter-Palatini</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/64-227-rif-galassi-rif-san-marco.html</gn:description>
+		<gn:crossroads>250, 255, 229, 225, 226</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000078/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000081/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000081/about.rdf"/>
+		<gn:name>“Carlo Minazio” Sentiero attrezzato</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>243</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>3h</gn:travelTime>
+		<gn:difficulty>EEA</gn:difficulty>
+		<gn:elevationGain>in salita 321m, in discesa 247m</gn:elevationGain>
+		<gn:startingP1>A - Biv. Comici</gn:startingP1>
+		<gn:startingP2>B - Cengia inferiore dei Colli Neri e Cengia delle Sorelle – Alta Val di San Vito</gn:startingP2>
+		<gn:nearbyPOI1>Bivacco Comici</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio San Marco</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Colli Neri</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/65-243-sentiero-attrezzato-carlo-minazio.html</gn:description>
+		<gn:crossroads>277, 247</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000081/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000084/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000084/about.rdf"/>
+		<gn:name>“Degli Alpini” - Sentiero attrezzato</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>260</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>8-9h</gn:travelTime>
+		<gn:difficulty>EEA</gn:difficulty>
+		<gn:elevationGain>in salita 1517m, in discesa 1577m</gn:elevationGain>
+		<gn:startingP1>A - Calalzo di Cadore, Ponte de la Diassa loc. Praciadelàn</gn:startingP1>
+		<gn:startingP2>B - Calalzo di Cadore, Taco del Todésco loc. Bosco de Sozènto</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Chiggiato</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Col Negro</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Bivacco Tiziano</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/66-260-degli-alpini-sentiero-attrezzato.html</gn:description>
+		<gn:crossroads>255, 261, 262, 280</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000084/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000087/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000087/about.rdf"/>
+		<gn:name>Lozzo di Cadore – Auronzo di Cadore</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>268</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>5.3h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 972m, in discesa 1002m</gn:elevationGain>
+		<gn:startingP1>A - Lozzo di Cadore</gn:startingP1>
+		<gn:startingP2>B - Auronzo di Cadore</gn:startingP2>
+		<gn:nearbyPOI1>Monte Ciarido P.ta Nord-Est</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio Ciareido</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Croda Bassa</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/96-268-lozzo-di-cadore--auronzo-di-cadore.html</gn:description>
+		<gn:crossroads>273, 275, 1262</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000087/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000090/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000090/about.rdf"/>
+		<gn:name>Bivio per Tabià da Rin – Sotto Forcella Baión (S)</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>270</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>4h</gn:travelTime>
+		<gn:difficulty>EE</gn:difficulty>
+		<gn:elevationGain>in salita 1129m, in discesa 284m</gn:elevationGain>
+		<gn:startingP1>A - Auronzo di Cadore, Bivio per Tabià da Rin</gn:startingP1>
+		<gn:startingP2>B - Domegge di Cadore, loc. Forcella Baión</gn:startingP2>
+		<gn:nearbyPOI1>Croda Da Rin</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Bivacco Fanton</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Cima Froppa</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/97-270-bivio-per-tabia-da-rin--sotto-forcella-baion-s.html</gn:description>
+		<gn:crossroads>262</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000090/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000093/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000093/about.rdf"/>
+		<gn:name>Pomadòna – Rif. Baión</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>272</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>3h</gn:travelTime>
+		<gn:difficulty>EE</gn:difficulty>
+		<gn:elevationGain>in salita 580m, in discesa 235m</gn:elevationGain>
+		<gn:startingP1>A - Lozzo di Cadore, loc. Pomadòna</gn:startingP1>
+		<gn:startingP2>B - Rif. Baión</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Ciaréido</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio Baion</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Monte Ciastellin</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/99-272-pomadona--rif-baion.html</gn:description>
+		<gn:crossroads>273, 262, 264</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000093/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000096/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000096/about.rdf"/>
+		<gn:name>Tabià da Rin – Pian dei Buoi</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>273</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>3h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 702m</gn:elevationGain>
+		<gn:startingP1>A - Auronzo di Cadore, loc. Tabià da Rin</gn:startingP1>
+		<gn:startingP2>B - Pian dei Buoi</gn:startingP2>
+		<gn:nearbyPOI1>Bivacco Voltolina</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Cima Bel Pra</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Cima Bastion</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/67-278-ciadin-del-doge-bivacco-voltolina-.html</gn:description>
+		<gn:crossroads>272, 268</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000096/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000099/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000099/about.rdf"/>
+		<gn:name>Ciadìn del Doge – Bivacco Voltolina - Sentiero attrezzato</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>278</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>2h</gn:travelTime>
+		<gn:difficulty>EEA</gn:difficulty>
+		<gn:elevationGain>in salita 432m</gn:elevationGain>
+		<gn:startingP1>A - Ciadìn del Doge</gn:startingP1>
+		<gn:startingP2>B - Bivacco Voltolina</gn:startingP2>
+		<gn:nearbyPOI1>Croda Da Rin</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Bivacco Fanton</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Cima Froppa</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/97-270-bivio-per-tabia-da-rin--sotto-forcella-baion-s.html</gn:description>
+		<gn:crossroads>226, 280</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000099/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000102/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000102/about.rdf"/>
+		<gn:name>Foresta di Somadida (Ponte Piccolo) – Bivacco Musatti Sentiero attrezzato</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>279</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>4h</gn:travelTime>
+		<gn:difficulty>EEA</gn:difficulty>
+		<gn:elevationGain>in salita 961m</gn:elevationGain>
+		<gn:startingP1>A - Foresta di Somadida (Ponte Piccolo)</gn:startingP1>
+		<gn:startingP2>B - Bivacco Musatti</gn:startingP2>
+		<gn:nearbyPOI1>Pala Meduce</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Bivacco Musatti</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Cima Schiavina</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/68-279-foresta-di-somadida-ponte-piccolo-bivacco-musatti-sentiero-attrezzato.html</gn:description>
+		<gn:crossroads>226, 280</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000102/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000105/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000105/about.rdf"/>
+		<gn:name>“Antonio Sanmarchi” - Sentiero attrezzato</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>280</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>11h</gn:travelTime>
+		<gn:difficulty>EEA</gn:difficulty>
+		<gn:elevationGain>in salita 1200m, in discesa 1395m</gn:elevationGain>
+		<gn:startingP1>A - Biv. Tiziano</gn:startingP1>
+		<gn:startingP2>B - Cengia del Corno del Doge – Alta Val di San Vito</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Tiziano</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Colli Neri</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Bivacco Voltolina</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/69-280-antonio-sanmarchi-sentiero-attrezzato-.html</gn:description>
+		<gn:crossroads>260, 279, 278, 226, 247</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000105/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000108/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000108/about.rdf"/>
+		<gn:name>Alta Val Marzón – Rif. Auronzo alle Tre Cime</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>1104</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>4h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 960m</gn:elevationGain>
+		<gn:startingP1>A - Alta Val Marzón</gn:startingP1>
+		<gn:startingP2>B - Rif. Auronzo alle Tre Cime</gn:startingP2>
+		<gn:nearbyPOI1>Rif. Auronzo alle Tre Cime</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Monte Campedelle</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Tre Cime di Lavaredo Grande</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/92-1104-alta-val-marzon--rif-auronzo-alle-tre-cime.html</gn:description>
+		<gn:crossroads>119, 101</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000108/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000111/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000111/about.rdf"/>
+		<gn:name>Alta Val Marzón – Pian di Cengia</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>1107</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>3h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 242m</gn:elevationGain>
+		<gn:startingP1>A - Alta Val Marzón</gn:startingP1>
+		<gn:startingP2>B - Pian di Cengia</gn:startingP2>
+		<gn:nearbyPOI1>Croda Dei Toni</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Monte Cengia</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Lago di Cengia</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/93-1107-alta-val-marzon--pian-di-cengia.html</gn:description>
+		<gn:crossroads>104</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000111/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000114/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000114/about.rdf"/>
+		<gn:name>Fedèra Vecchia – Maraia Bassa (Cianpiéte)</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>1120</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>1.3h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 367m</gn:elevationGain>
+		<gn:startingP1>A - Auronzo di Cadore, loc. Fedèra Vecchia</gn:startingP1>
+		<gn:startingP2>B - Maraia Bassa (Cianpiéte)</gn:startingP2>
+		<gn:nearbyPOI1>Monte Campoduro</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Rifugio Città di Carpi</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Cima Cadini di San Lucano</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/94-1120-federa-vecchia--maraia-bassa-cianpiete.html</gn:description>
+		<gn:crossroads>120</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000114/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000117/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000117/about.rdf"/>
+		<gn:name>Auronzo di Cadore (Ponte Malón) – Pian dei Buoi</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRL"/>
+		<gn:trailCode>1262</gn:trailCode>
+		<gn:countryCode>IT</gn:countryCode>
+		<gn:travelTime>4h</gn:travelTime>
+		<gn:difficulty>E</gn:difficulty>
+		<gn:elevationGain>in salita 958m</gn:elevationGain>
+		<gn:startingP1>A - Auronzo di Cadore, loc. Ponte Malón</gn:startingP1>
+		<gn:startingP2>B - Pian dei Buoi</gn:startingP2>
+		<gn:nearbyPOI1>Rifugio Ciareido</gn:nearbyPOI1>
+		<gn:nearbyPOI2>Col Burgiou (o Burgion)</gn:nearbyPOI2>
+		<gn:nearbyPOI3>Pian dei Buoi</gn:nearbyPOI3>
+		<gn:description>https://www.caiauronzo.it/sentieri/70-1262-auronzo-di-cadore-ponte-malon-pian-dei-buoi.html</gn:description>
+		<gn:crossroads>271, 268</gn:crossroads>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000117/nearby.rdf"/>
+	</gn:Feature>
+</rdf:RDF>

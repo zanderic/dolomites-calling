@@ -1,0 +1,48 @@
+.title {
+	font-size: 60px;
+}
+.title, .subtitle {
+	font-family: 'Poiret One', cursive;
+	text-align: center;
+	font-weight: bold;
+}
+
+.col-1 {
+	padding-left: 5px !important;
+}
+
+/*.progress {
+	margin-top: 10px;
+}
+.progress-bar {
+	width: 60%;
+}*/
+
+.btn-bottom {
+	margin-top: 15px;
+}
+.btn-hours {
+	margin-top: 2px !important;
+}
+
+.croce-btn {
+	margin: 3px;
+}
+
+.search-field {
+	margin-top: 40px;
+}
+
+.response {
+	margin-top: 20px;	
+}
+
+.row, .card-title {
+	margin-bottom: 20px;
+}
+
+.map {
+	height: 100%;
+	border: #28a745 1px solid;
+	border-radius: .25rem;
+}

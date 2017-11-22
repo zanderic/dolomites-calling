@@ -1,0 +1,83 @@
+<!doctype html>
+
+<html lang="it">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<title>Dolomites Calling</title>
+	<meta name="description" content="The wisdom Dolomites is missing is here!">
+	<meta name="author" content="Riccardo Zandegiacomo">
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poiret+One">
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<div class="container">
+		<div class="row justify-content-center search-field">
+			<div class="col">
+				<h1 class="title">Dolomites Calling</h1>
+				<h5 class="subtitle">Il tuoi sentieri tra le montagne più belle del mondo</h5>
+			</div>
+			<div class="col-6">
+				<form id="dream-form">
+					<div class="form-check form-check-inline">
+						<label class="form-check-label">
+						<input class="form-check-input" type="checkbox" id="check-montagne" checked="true">
+						Montagne
+						</label>
+					</div>
+					<div class="form-check form-check-inline">
+						<label class="form-check-label">
+						<input class="form-check-input" type="checkbox" id="check-laghi" checked="true">
+						Laghi
+						</label>
+					</div>
+					<div class="form-check form-check-inline">
+						<label class="form-check-label">
+						<input class="form-check-input" type="checkbox" id="check-rifugi" checked="true">
+						Rifugi
+						</label>
+					</div>
+					<button type="submit" class="btn btn-primary pull-right">
+						<i class="fa fa-search fa-fw"></i> Cerca punti di interesse
+					</button>
+				</form>
+				<button class="btn btn-success btn-lg btn-block btn-bottom" id="btn-trails">
+					<i class="fa fa-fw fa-map-signs"></i> Visualizza tutti i sentieri
+				</button>
+			</div>
+			<div class="col-1 pull-right">
+				<button class="btn btn-sm btn-success btn-hours btn-block" id="btn-easy" data-toggle="tooltip" data-placement="top" title="Percorsi di massimo 3h">
+					<i class="fa fa-fw fa-clock-o"></i>2h
+				</button>
+				<button class="btn btn-sm btn-success btn-hours btn-block" id="btn-medium" data-toggle="tooltip" data-placement="top" title="Percorsi di massimo 5h">
+					<i class="fa fa-fw fa-clock-o"></i>5h
+				</button>
+				<button class="btn btn-sm btn-success btn-hours btn-block" id="btn-hard" data-toggle="tooltip" data-placement="top" title="Percorsi di massimo 10h">
+					<i class="fa fa-fw fa-clock-o"></i>8h
+				</button>
+			</div>
+			<!-- <div class="col-12">
+				<div class="progress" style="height: 8px;">
+					<div class="progress-bar bg-success" role="progressbar" style="width: 0px;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+				</div>	
+			</div> -->
+		</div>
+		<div class="response"></div>
+		<div class="alert alert-success text-center" role="alert">
+			<i class="fa fa-lg fa-copyright" aria-hidden="true"></i> <a href="https://www.caiauronzo.it/" class="alert-link">CAI sezione di Auronzo di Cadore</a>
+ 		</div>
+	</div>
+	
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+	<script src="https://use.fontawesome.com/4260617282.js"></script>
+	<script src="script.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCB_p4f0qKv-Sd5BTzWWWmQn6PIySg2ndU"
+    async defer></script>
+</body>
+</html>

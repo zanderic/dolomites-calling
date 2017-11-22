@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<rdf:RDF xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:gn="http://www.geonames.org/ontology#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#">
+
+	<gn:Feature rdf:about="http://sws.geonames.org/0000001/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000001/about.rdf"/>
+		<gn:name>101 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.63366</wgs84_pos:lat>
+		<wgs84_pos:long>12.41893</wgs84_pos:long>
+		<wgs84_pos:alt>1926</wgs84_pos:alt>
+		<gn:linkedTrail>101</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000001/nearby.rdf"/>
+		<!-- <gn:locationMap rdf:resource="http://www.geonames.org/0000001/monzano-creek-trail.html"/> -->
+	</gn:Feature>
+	<!-- <foaf:Document rdf:about="http://sws.geonames.org/0000001/about.rdf">
+		<foaf:primaryTopic rdf:resource="http://sws.geonames.org/0000001/"/>
+		<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+		<cc:attributionURL rdf:resource="http://sws.geonames.org/0000001/"/>
+		<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+		<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-02-01</dcterms:created>
+		<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-02-01</dcterms:modified>
+	</foaf:Document> -->
+	<gn:Feature rdf:about="http://sws.geonames.org/0000002/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000002/about.rdf"/>
+		<gn:name>101 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.61239</wgs84_pos:lat>
+		<wgs84_pos:long>12.29396</wgs84_pos:long>
+		<wgs84_pos:alt>2320</wgs84_pos:alt>
+		<gn:linkedTrail>101</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000002/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000004/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000004/about.rdf"/>
+		<gn:name>103 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.57722</wgs84_pos:lat>
+		<wgs84_pos:long>12.36111</wgs84_pos:long>
+		<gn:linkedTrail>103</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000004/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000005/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000005/about.rdf"/>
+		<gn:name>103 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.65128</wgs84_pos:lat>
+		<wgs84_pos:long>12.35395</wgs84_pos:long>
+		<wgs84_pos:alt>1548</wgs84_pos:alt>
+		<gn:linkedTrail>103</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000005/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000007/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000007/about.rdf"/>
+		<gn:name>104 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.61854</wgs84_pos:lat>
+		<wgs84_pos:long>12.31183</wgs84_pos:long>
+		<gn:linkedTrail>104</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000007/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000008/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000008/about.rdf"/>
+		<gn:name>104 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.627826</wgs84_pos:lat>
+		<wgs84_pos:long>12.339957</wgs84_pos:long>
+		<gn:linkedTrail>104</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000008/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000010/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000010/about.rdf"/>
+		<gn:name>105 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.61239</wgs84_pos:lat>
+		<wgs84_pos:long>12.29396</wgs84_pos:long>
+		<wgs84_pos:alt>2320</wgs84_pos:alt>
+		<gn:linkedTrail>105</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000010/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000011/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000011/about.rdf"/>
+		<gn:name>105 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.6682869</wgs84_pos:lat>
+		<wgs84_pos:long>12.287243</wgs84_pos:long>
+		<wgs84_pos:alt>2320</wgs84_pos:alt>
+		<gn:linkedTrail>105</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000011/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000013/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000013/about.rdf"/>
+		<gn:name>106 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.582116</wgs84_pos:lat>
+		<wgs84_pos:long>12.357696</wgs84_pos:long>
+		<gn:linkedTrail>106</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000013/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000014/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000014/about.rdf"/>
+		<gn:name>106 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.619018</wgs84_pos:lat>
+		<wgs84_pos:long>12.369839</wgs84_pos:long>
+		<gn:linkedTrail>106</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000014/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000016/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000016/about.rdf"/>
+		<gn:name>107 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.62484</wgs84_pos:lat>
+		<wgs84_pos:long>12.33878</wgs84_pos:long>
+		<gn:linkedTrail>107</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000016/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000017/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000017/about.rdf"/>
+		<gn:name>107 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.61511</wgs84_pos:lat>
+		<wgs84_pos:long>12.37359</wgs84_pos:long>
+		<gn:linkedTrail>107</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000017/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000019/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000019/about.rdf"/>
+		<gn:name>108 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.595764</wgs84_pos:lat>
+		<wgs84_pos:long>12.27313</wgs84_pos:long>
+		<gn:linkedTrail>108</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000019/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000020/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000020/about.rdf"/>
+		<gn:name>108 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.63278</wgs84_pos:lat>
+		<wgs84_pos:long>12.25889</wgs84_pos:long>
+		<gn:linkedTrail>108</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000020/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000022/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000022/about.rdf"/>
+		<gn:name>109 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.57722</wgs84_pos:lat>
+		<wgs84_pos:long>12.36111</wgs84_pos:long>
+		<gn:linkedTrail>109</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000022/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000023/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000023/about.rdf"/>
+		<gn:name>109 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.61511</wgs84_pos:lat>
+		<wgs84_pos:long>12.37359</wgs84_pos:long>
+		<gn:linkedTrail>109</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000023/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000025/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000025/about.rdf"/>
+		<gn:name>111 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.595764</wgs84_pos:lat>
+		<wgs84_pos:long>12.27313</wgs84_pos:long>
+		<gn:linkedTrail>111</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000025/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000026/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000026/about.rdf"/>
+		<gn:name>111 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.61065</wgs84_pos:lat>
+		<wgs84_pos:long>12.25113</wgs84_pos:long>
+		<gn:linkedTrail>111</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000026/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000028/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000028/about.rdf"/>
+		<gn:name>112 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.57102</wgs84_pos:lat>
+		<wgs84_pos:long>12.26692</wgs84_pos:long>
+		<gn:linkedTrail>112</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000028/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000029/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000029/about.rdf"/>
+		<gn:name>112 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.58531</wgs84_pos:lat>
+		<wgs84_pos:long>12.28739</wgs84_pos:long>
+		<gn:linkedTrail>112</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000029/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000031/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000031/about.rdf"/>
+		<gn:name>115 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.59101</wgs84_pos:lat>
+		<wgs84_pos:long>12.26330</wgs84_pos:long>
+		<gn:linkedTrail>115</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000031/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000032/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000032/about.rdf"/>
+		<gn:name>115 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.58531</wgs84_pos:lat>
+		<wgs84_pos:long>12.28739</wgs84_pos:long>
+		<gn:linkedTrail>115</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000032/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000034/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000034/about.rdf"/>
+		<gn:name>116 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.56235</wgs84_pos:lat>
+		<wgs84_pos:long>12.29092</wgs84_pos:long>
+		<gn:linkedTrail>116</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000034/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000035/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000035/about.rdf"/>
+		<gn:name>116 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.56194</wgs84_pos:lat>
+		<wgs84_pos:long>12.3025</wgs84_pos:long>
+		<gn:linkedTrail>116</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000035/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000037/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000037/about.rdf"/>
+		<gn:name>117 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.57102</wgs84_pos:lat>
+		<wgs84_pos:long>12.26692</wgs84_pos:long>
+		<gn:linkedTrail>117</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000037/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000038/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000038/about.rdf"/>
+		<gn:name>117 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.61239</wgs84_pos:lat>
+		<wgs84_pos:long>12.29396</wgs84_pos:long>
+		<gn:linkedTrail>117</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000038/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000040/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000040/about.rdf"/>
+		<gn:name>118 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.587523</wgs84_pos:lat>
+		<wgs84_pos:long>12.259118</wgs84_pos:long>
+		<gn:linkedTrail>118</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000040/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000041/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000041/about.rdf"/>
+		<gn:name>118 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.56235</wgs84_pos:lat>
+		<wgs84_pos:long>12.29092</wgs84_pos:long>
+		<gn:linkedTrail>118</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000041/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000043/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000043/about.rdf"/>
+		<gn:name>119 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.599378</wgs84_pos:lat>
+		<wgs84_pos:long>12.270827</wgs84_pos:long>
+		<gn:linkedTrail>119</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000043/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000044/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000044/about.rdf"/>
+		<gn:name>119 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.60001</wgs84_pos:lat>
+		<wgs84_pos:long>12.32018</wgs84_pos:long>
+		<gn:linkedTrail>119</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000044/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000046/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000046/about.rdf"/>
+		<gn:name>120 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.54056</wgs84_pos:lat>
+		<wgs84_pos:long>12.30722</wgs84_pos:long>
+		<gn:linkedTrail>120</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000046/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000047/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000047/about.rdf"/>
+		<gn:name>120 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.56235</wgs84_pos:lat>
+		<wgs84_pos:long>12.29092</wgs84_pos:long>
+		<gn:linkedTrail>120</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000047/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000049/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000049/about.rdf"/>
+		<gn:name>121 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.59</wgs84_pos:lat>
+		<wgs84_pos:long>12.34417</wgs84_pos:long>
+		<gn:linkedTrail>121</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000049/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000050/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000050/about.rdf"/>
+		<gn:name>121 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.56235</wgs84_pos:lat>
+		<wgs84_pos:long>12.29092</wgs84_pos:long>
+		<gn:linkedTrail>121</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000050/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000052/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000052/about.rdf"/>
+		<gn:name>271 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.55528</wgs84_pos:lat>
+		<wgs84_pos:long>12.40167</wgs84_pos:long>
+		<gn:linkedTrail>271</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000052/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000053/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000053/about.rdf"/>
+		<gn:name>271 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.53407</wgs84_pos:lat>
+		<wgs84_pos:long>12.40678</wgs84_pos:long>
+		<gn:linkedTrail>271</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000053/nearby.rdf"/>		
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000055/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000055/about.rdf"/>
+		<gn:name>122 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.59481</wgs84_pos:lat>
+		<wgs84_pos:long>12.26525</wgs84_pos:long>
+		<gn:linkedTrail>122</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000055/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000056/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000056/about.rdf"/>
+		<gn:name>122 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.61655</wgs84_pos:lat>
+		<wgs84_pos:long>12.24538</wgs84_pos:long>
+		<gn:linkedTrail>122</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000056/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000058/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000058/about.rdf"/>
+		<gn:name>123 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.56306</wgs84_pos:lat>
+		<wgs84_pos:long>12.42556</wgs84_pos:long>
+		<gn:linkedTrail>123</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000058/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000059/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000059/about.rdf"/>
+		<gn:name>123 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.62389</wgs84_pos:lat>
+		<wgs84_pos:long>12.42972</wgs84_pos:long>
+		<gn:linkedTrail>123</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000059/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000061/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000061/about.rdf"/>
+		<gn:name>125 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.58071</wgs84_pos:lat>
+		<wgs84_pos:long>12.48058</wgs84_pos:long>
+		<gn:linkedTrail>125</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000061/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000062/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000062/about.rdf"/>
+		<gn:name>125 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.55306</wgs84_pos:lat>
+		<wgs84_pos:long>12.43083</wgs84_pos:long>
+		<gn:linkedTrail>125</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000062/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000064/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000064/about.rdf"/>
+		<gn:name>152 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.60336</wgs84_pos:lat>
+		<wgs84_pos:long>12.4793</wgs84_pos:long>
+		<gn:linkedTrail>152</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000064/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000065/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000065/about.rdf"/>
+		<gn:name>152 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.63099</wgs84_pos:lat>
+		<wgs84_pos:long>12.40569</wgs84_pos:long>
+		<gn:linkedTrail>152</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000065/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000067/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000067/about.rdf"/>
+		<gn:name>222 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.55862</wgs84_pos:lat>
+		<wgs84_pos:long>12.21766</wgs84_pos:long>
+		<gn:linkedTrail>222</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000067/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000068/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000068/about.rdf"/>
+		<gn:name>222 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.58333</wgs84_pos:lat>
+		<wgs84_pos:long>12.21222</wgs84_pos:long>
+		<gn:linkedTrail>222</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000068/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000070/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000070/about.rdf"/>
+		<gn:name>224 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.58333</wgs84_pos:lat>
+		<wgs84_pos:long>12.21222</wgs84_pos:long>
+		<gn:linkedTrail>224</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000070/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000071/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000071/about.rdf"/>
+		<gn:name>224 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.57836</wgs84_pos:lat>
+		<wgs84_pos:long>12.24714</wgs84_pos:long>
+		<gn:linkedTrail>224</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000071/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000073/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000073/about.rdf"/>
+		<gn:name>226 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.53035</wgs84_pos:lat>
+		<wgs84_pos:long>12.28572</wgs84_pos:long>
+		<gn:linkedTrail>226</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000073/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000074/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000074/about.rdf"/>
+		<gn:name>226 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.45399</wgs84_pos:lat>
+		<wgs84_pos:long>12.21316</wgs84_pos:long>
+		<gn:linkedTrail>226</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000074/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000076/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000076/about.rdf"/>
+		<gn:name>227 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.45399</wgs84_pos:lat>
+		<wgs84_pos:long>12.21316</wgs84_pos:long>
+		<gn:linkedTrail>227</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000076/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000077/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000077/about.rdf"/>
+		<gn:name>227 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.4704903</wgs84_pos:lat>
+		<wgs84_pos:long>12.2621584</wgs84_pos:long>
+		<gn:linkedTrail>227</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000077/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000079/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000079/about.rdf"/>
+		<gn:name>243 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.52266</wgs84_pos:lat>
+		<wgs84_pos:long>12.24602</wgs84_pos:long>
+		<gn:linkedTrail>243</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000079/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000080/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000080/about.rdf"/>
+		<gn:name>243 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.45399</wgs84_pos:lat>
+		<wgs84_pos:long>12.21316</wgs84_pos:long>
+		<gn:linkedTrail>243</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000080/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000082/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000082/about.rdf"/>
+		<gn:name>260 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.47752</wgs84_pos:lat>
+		<wgs84_pos:long>12.33230</wgs84_pos:long>
+		<gn:linkedTrail>260</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000082/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000083/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000083/about.rdf"/>
+		<gn:name>260 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.50938</wgs84_pos:lat>
+		<wgs84_pos:long>12.30975</wgs84_pos:long>
+		<gn:linkedTrail>260</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000083/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000085/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000085/about.rdf"/>
+		<gn:name>268 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.49728</wgs84_pos:lat>
+		<wgs84_pos:long>12.41703</wgs84_pos:long>
+		<gn:linkedTrail>268</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000085/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000086/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000086/about.rdf"/>
+		<gn:name>268 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.53851</wgs84_pos:lat>
+		<wgs84_pos:long>12.46161</wgs84_pos:long>
+		<gn:linkedTrail>268</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000086/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000088/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000088/about.rdf"/>
+		<gn:name>270 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.54366</wgs84_pos:lat>
+		<wgs84_pos:long>12.37618</wgs84_pos:long>
+		<gn:linkedTrail>270</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000088/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000089/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000089/about.rdf"/>
+		<gn:name>270 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.51432</wgs84_pos:lat>
+		<wgs84_pos:long>12.36479</wgs84_pos:long>
+		<gn:linkedTrail>270</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000089/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000091/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000091/about.rdf"/>
+		<gn:name>272 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.49898</wgs84_pos:lat>
+		<wgs84_pos:long>12.3852</wgs84_pos:long>
+		<gn:linkedTrail>272</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000091/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000092/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000092/about.rdf"/>
+		<gn:name>272 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.53472</wgs84_pos:lat>
+		<wgs84_pos:long>12.38953</wgs84_pos:long>
+		<gn:linkedTrail>272</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000092/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000094/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000094/about.rdf"/>
+		<gn:name>273 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.54384</wgs84_pos:lat>
+		<wgs84_pos:long>12.37629</wgs84_pos:long>
+		<gn:linkedTrail>273</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000094/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000095/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000095/about.rdf"/>
+		<gn:name>273 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.51792</wgs84_pos:lat>
+		<wgs84_pos:long>12.41082</wgs84_pos:long>
+		<gn:linkedTrail>273</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000095/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000097/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000097/about.rdf"/>
+		<gn:name>278 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.48592</wgs84_pos:lat>
+		<wgs84_pos:long>12.2534</wgs84_pos:long>
+		<gn:linkedTrail>278</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000097/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000098/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000098/about.rdf"/>
+		<gn:name>278 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.50749</wgs84_pos:lat>
+		<wgs84_pos:long>12.25233</wgs84_pos:long>
+		<gn:linkedTrail>278</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000098/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000100/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000100/about.rdf"/>
+		<gn:name>279 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.52781</wgs84_pos:lat>
+		<wgs84_pos:long>12.27834</wgs84_pos:long>
+		<gn:linkedTrail>279</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000100/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000101/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000101/about.rdf"/>
+		<gn:name>279 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.50672</wgs84_pos:lat>
+		<wgs84_pos:long>12.29177</wgs84_pos:long>
+		<gn:linkedTrail>279</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000101/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000103/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000103/about.rdf"/>
+		<gn:name>280 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.50938</wgs84_pos:lat>
+		<wgs84_pos:long>12.30975</wgs84_pos:long>
+		<gn:linkedTrail>280</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000103/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000104/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000104/about.rdf"/>
+		<gn:name>280 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.50123</wgs84_pos:lat>
+		<wgs84_pos:long>12.23757</wgs84_pos:long>
+		<gn:linkedTrail>280</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000104/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000106/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000106/about.rdf"/>
+		<gn:name>1104 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.59</wgs84_pos:lat>
+		<wgs84_pos:long>12.34417</wgs84_pos:long>
+		<gn:linkedTrail>1104</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000106/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000107/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000107/about.rdf"/>
+		<gn:name>1104 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.61239</wgs84_pos:lat>
+		<wgs84_pos:long>12.29396</wgs84_pos:long>
+		<gn:linkedTrail>1104</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000107/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000109/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000109/about.rdf"/>
+		<gn:name>1107 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.59</wgs84_pos:lat>
+		<wgs84_pos:long>12.34417</wgs84_pos:long>
+		<gn:linkedTrail>1107</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000109/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000110/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000110/about.rdf"/>
+		<gn:name>1107 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.62510</wgs84_pos:lat>
+		<wgs84_pos:long>12.34121</wgs84_pos:long>
+		<gn:linkedTrail>1107</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000110/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000112/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000112/about.rdf"/>
+		<gn:name>1120 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.54657</wgs84_pos:lat>
+		<wgs84_pos:long>12.24898</wgs84_pos:long>
+		<gn:linkedTrail>1120</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000112/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000113/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000113/about.rdf"/>
+		<gn:name>1120 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.50672</wgs84_pos:lat>
+		<wgs84_pos:long>12.29177</wgs84_pos:long>
+		<gn:linkedTrail>1120</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000113/nearby.rdf"/>	
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000115/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000115/about.rdf"/>
+		<gn:name>1262 - A</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.55201</wgs84_pos:lat>
+		<wgs84_pos:long>12.43017</wgs84_pos:long>
+		<gn:linkedTrail>1262</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000115/nearby.rdf"/>
+	</gn:Feature>
+	<gn:Feature rdf:about="http://sws.geonames.org/0000116/">
+		<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/0000116/about.rdf"/>
+		<gn:name>1262 - B</gn:name>
+		<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+		<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.TRLSTR"/>
+		<gn:countryCode>IT</gn:countryCode>
+		<wgs84_pos:lat>46.51313</wgs84_pos:lat>
+		<wgs84_pos:long>12.39672</wgs84_pos:long>
+		<gn:linkedTrail>1262</gn:linkedTrail>
+		<gn:parentFeature rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/> <!-- Italia -->
+		<gn:parentADM1 rdf:resource="http://sws.geonames.org/3164604/"/> <!-- Veneto -->
+		<gn:parentADM2 rdf:resource="http://sws.geonames.org/3182209/"/> <!-- Belluno -->
+		<gn:parentADM3 rdf:resource="http://sws.geonames.org/6541531/"/> <!-- Auronzo di Cadore -->
+		<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/0000116/nearby.rdf"/>
+	</gn:Feature>
+</rdf:RDF>
